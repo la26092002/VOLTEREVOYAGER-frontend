@@ -93,7 +93,7 @@ export default function Home() {
 
               <h1 className="font-display leading-none mb-6">
                 <span className="block text-7xl sm:text-8xl lg:text-9xl text-carbon-100 tracking-wide">
-                  VOLTERE
+                  WATT
                 </span>
                 <span className="block text-7xl sm:text-8xl lg:text-9xl text-gradient tracking-wide">
                   VOYAGER
@@ -161,7 +161,7 @@ export default function Home() {
                       <path d="M13 2L4.09 12.97A1 1 0 005 14h7l-1 8 8.91-10.97A1 1 0 0019 10h-7l1-8z" />
                     </svg>
                   </div>
-                  <p className="font-display text-2xl text-carbon-100 tracking-widest text-center">VOLTERE</p>
+                  <p className="font-display text-2xl text-carbon-100 tracking-widest text-center">WATT</p>
                   <p className="font-display text-2xl text-volt-400 tracking-widest text-center">VOYAGER</p>
                   <div className="mt-4 grid grid-cols-2 gap-2 w-full">
                     <div className="bg-carbon-800/60 rounded-xl p-2 text-center">

@@ -251,7 +251,7 @@ export default function Home() {
             POWER YOUR <span className="text-gradient">ADVENTURE</span>
           </h2>
           <p className="text-carbon-400 text-lg mb-10 max-w-xl mx-auto leading-relaxed">
-            Join thousands of explorers who trust VoltereVoyager to keep them connected, powered, and tracked — no matter where they go.
+            Join thousands of explorers who trust WattVoyager to keep them connected, powered, and tracked — no matter where they go.
           </p>
           <Link to="/order">
             <Button variant="primary" size="xl" className="font-semibold tracking-wide shadow-xl shadow-volt-500/25">

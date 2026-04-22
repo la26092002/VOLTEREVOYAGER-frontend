@@ -59,7 +59,7 @@ export default function Footer() {
 
         <div className="mt-10 pt-6 border-t border-carbon-800/40 flex flex-col sm:flex-row items-center justify-between gap-2">
           <p className="text-carbon-600 text-xs font-mono">
-            © 2024 VoltereVoyager. All rights reserved.
+            © 2024 WattVoyager. All rights reserved.
           </p>
           <p className="text-carbon-700 text-xs font-mono">
             Smart Energy Anywhere

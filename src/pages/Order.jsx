@@ -111,7 +111,7 @@ export default function Order() {
             </div>
             <h2 className="font-display text-3xl text-carbon-100 tracking-wide mb-3">ORDER CONFIRMED!</h2>
             <p className="text-carbon-400 text-sm leading-relaxed max-w-sm mx-auto">
-              Your VoltereVoyager is on its way. You'll receive a confirmation email with tracking information shortly.
+              Your WattVoyager is on its way. You'll receive a confirmation email with tracking information shortly.
             </p>
             <Button
               variant="outline"
@@ -176,7 +176,7 @@ export default function Order() {
                 <div className="bg-carbon-900/60 border border-carbon-800 rounded-xl p-4 space-y-2">
                   <h3 className="text-xs font-mono uppercase tracking-widest text-carbon-500 mb-3">Order Summary</h3>
                   <div className="flex justify-between text-sm">
-                    <span className="text-carbon-400">VoltereVoyager × {parseInt(form.quantity, 10) || 1}</span>
+                    <span className="text-carbon-400">WattVoyager × {parseInt(form.quantity, 10) || 1}</span>
                     <span className="text-carbon-200 font-mono">${(unitPrice * (parseInt(form.quantity, 10) || 1)).toLocaleString()}</span>
                   </div>
                   <div className="flex justify-between text-sm">

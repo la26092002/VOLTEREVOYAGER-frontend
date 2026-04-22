@@ -84,7 +84,7 @@ function TrackingSearch({ onTrack }) {
             TRACK YOUR <span className="text-gradient">DEVICE</span>
           </h1>
           <p className="text-carbon-400 text-sm leading-relaxed">
-            Enter the Device ID printed on your VoltereVoyager backpack to view its real-time location.
+            Enter the Device ID printed on your WattVoyager backpack to view its real-time location.
           </p>
         </div>
 
@@ -283,7 +283,7 @@ function TrackingMap({ deviceId, onReset }) {
                   <Marker position={position} icon={customIcon}>
                     <Popup>
                       <div className="font-body text-sm">
-                        <strong className="text-volt-400">VoltereVoyager</strong>
+                        <strong className="text-volt-400">WattVoyager</strong>
                         <br />
                         <span className="text-xs font-mono text-carbon-400">{deviceId}</span>
                         <br />

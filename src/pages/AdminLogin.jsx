@@ -131,7 +131,7 @@ export default function AdminLogin() {
         </Card>
 
         <p className="text-center text-carbon-700 text-xs font-mono mt-6">
-          VoltereVoyager Admin v1.0
+          WattVoyager Admin v1.0
         </p>
       </div>
     </div>

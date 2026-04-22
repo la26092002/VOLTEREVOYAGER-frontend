@@ -13,7 +13,7 @@ export default function Footer() {
                 </svg>
               </div>
               <span className="font-display text-lg tracking-wider text-carbon-100">
-                VOLTERE<span className="text-volt-500">VOYAGER</span>
+                WATT<span className="text-volt-500">VOYAGER</span>
               </span>
             </div>
             <p className="text-carbon-500 text-sm leading-relaxed">

@@ -53,7 +53,7 @@ export default function Navbar() {
               </svg>
             </div>
             <span className="font-display text-xl tracking-wider text-carbon-100 group-hover:text-volt-400 transition-colors">
-              VOLTERE<span className="text-volt-500">VOYAGER</span>
+              WATT<span className="text-volt-500">VOYAGER</span>
             </span>
           </Link>
 
